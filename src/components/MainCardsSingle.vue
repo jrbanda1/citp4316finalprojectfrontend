@@ -39,7 +39,8 @@
     </div>
     <div class="card-details">
       <p class="card-details-name">{{ props.employee.name }}</p>
-      <p class="card-details-job">{{ props.employee.title }}, {{ department.name }}</p>
+      <p class="card-details-job">{{ props.employee.title }}</p>
+      <p class="card-details-job">{{ department.name }}</p>
       <p class="card-details-quote">"{{ props.employee.quote }}"</p>
     </div>
   </div>
