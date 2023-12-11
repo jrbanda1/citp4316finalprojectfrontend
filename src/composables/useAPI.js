@@ -34,7 +34,7 @@ const getDepartment = async (departmentId) => {
 }
 
 const useAPI = () => {
-  return { emploayees, pages, activePage, loading, pageSize, getEmployees, getDepartment }
+  return { employees, pages, activePage, loading, pageSize, getEmployees, getDepartment }
 }
 
 export default useAPI
