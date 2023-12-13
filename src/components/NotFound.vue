@@ -1,5 +1,7 @@
 <template>
-  <h2 class="not-found">404 - Page not found</h2>
+  <h2 class="not-found">Click Login to Continue</h2>
+  <p text-center>"Username-   admin@example.com"</p>
+  <p text-center>"Password-   admin1"</p>
 </template>
 
 <style lang="postcss" scoped>
